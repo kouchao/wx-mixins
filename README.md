@@ -29,5 +29,5 @@ Page({
 ```
 
 
-## 实现
-[在小程序中实现 Mixins 方案](https://mp.weixin.qq.com/s/V3HAOYCHjSS7tSvyKzXh7A)
+## 来源
+[在小程序中实现 Mixins 方案](https://juejin.im/post/5d0a07eb6fb9a07eba2c4142)
