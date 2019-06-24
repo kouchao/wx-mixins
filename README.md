@@ -1,4 +1,4 @@
-微信小程序中实现 Mixins
+微信小程序中实现Mixins
 
 ## 安装
 ```
@@ -27,3 +27,7 @@ Page({
   mixins: [myMixin]
 })
 ```
+
+
+## 实现
+[在小程序中实现 Mixins 方案](https://mp.weixin.qq.com/s/V3HAOYCHjSS7tSvyKzXh7A)
